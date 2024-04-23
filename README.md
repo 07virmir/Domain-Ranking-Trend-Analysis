@@ -7,7 +7,7 @@ Built a data science tool to visualize the correlation between news articles and
 Leveraged the Tranco dataset (domain rankings) along with a news articles dataset (Huffpost) for the years 2019-2022. Integrated a fine-tuned Transformer model from HuggingFace for sentiment analysis of news article headlines. Used the spaCy library to scan for semantic similarity between news article headlines/descriptions and a predefined list of domain name search terms.
 
 ## Technology Stack / Libraries
-Python
-PyTorch
-spaCy
-Matplotlib
+- Python
+- PyTorch
+- spaCy
+- Matplotlib
